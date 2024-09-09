@@ -18,6 +18,8 @@ This repository contains Front-end Development Projects that scale from small to
 6. **Charts:** Visual representations of data, such as bar charts, line charts, and pie charts.
 7. **Dropdowns:** Menus that expand when clicked.
 8. **Forms:** Collection of various forms such as login, signup, and so on.
+	- [Login Form 1](./forms/login-form-1)
+	- [Password Form 1](./forms/password-form-1)
 9. **Footers:** The bottom section of a webpage, often containing copyright information, navigation links, and social media links.
 10. **Hero Sections:** The main, prominent section at the top of a page.
 11. **Lazy Loading:** A technique for deferring the loading of off-screen content.
@@ -26,6 +28,7 @@ This repository contains Front-end Development Projects that scale from small to
 14. **Navigations and Menus:** Menus, breadcrumbs, and other elements for navigating a website.
 15. **Progress Bars:** Visual indicators of progress or completion.
 16. **Pages and Themes:** The different collections of web page designs such as blog, dashboard, etc.
+	- [Mobile App Renovation Service Screen](./pages-and-themes/mobile-app-renovation-service-screen)
 17. **Tabs:** Components that allow users to switch between different content panels.
 18. **Tables:** Grid-based layouts for displaying data in rows and columns.
 19. **Text:** Various types of text content, including headings, paragraphs, labels, and more.
