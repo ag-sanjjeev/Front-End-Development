@@ -17,6 +17,7 @@ This repository contains Front-end Development Projects that scale from small to
 	- [3D Image Slider](./carousal-and-sliders/3d-image-slider)
 6. **Charts:** Visual representations of data, such as bar charts, line charts, and pie charts.
 7. **Dropdowns:** Menus that expand when clicked.
+	- [Multi Level Dropdown Menu 1](./dropdowns/multi-level-dropdown-menu-1)
 8. **Forms:** Collection of various forms such as login, signup, and so on.
 	- [Login Form 1](./forms/login-form-1)
 	- [Password Form 1](./forms/password-form-1)
@@ -28,7 +29,12 @@ This repository contains Front-end Development Projects that scale from small to
 14. **Navigations and Menus:** Menus, breadcrumbs, and other elements for navigating a website.
 15. **Progress Bars:** Visual indicators of progress or completion.
 16. **Pages and Themes:** The different collections of web page designs such as blog, dashboard, etc.
+	- [Login Failed Page](./pages-and-themes/login-failed-page)
+	- [Login Successful Page](./pages-and-themes/login-successful-page)
+	- [Logout Page](./pages-and-themes/logout-page)
 	- [Mobile App Renovation Service Screen](./pages-and-themes/mobile-app-renovation-service-screen)
+	- [Unauthorized Page](./pages-and-themes/unauthorized-page)
+	- [Under Construction Page](./pages-and-themes/under-construction-page)
 17. **Tabs:** Components that allow users to switch between different content panels.
 18. **Tables:** Grid-based layouts for displaying data in rows and columns.
 19. **Text:** Various types of text content, including headings, paragraphs, labels, and more.
