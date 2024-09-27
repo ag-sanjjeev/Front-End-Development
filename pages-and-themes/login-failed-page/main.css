@@ -1,0 +1,38 @@
+/*
+  ______________________________________________________________________________________________
+ |                                                                                              |
+ |  Copyright 2024 ag-sanjjeev                                                                  |
+ |                                                                                              |
+ |  The source code is licensed under MIT-style License.                                        |
+ |  The usage, permission and condition are applicable to this source code as per license.      |
+ |  That can be found in LICENSE file or at https://opensource.org/licenses/MIT.                |
+ |______________________________________________________________________________________________|
+
+*/
+/* Key icon */
+#key-icon {
+	opacity: 0;
+	transform: rotateX(180deg) rotateY(0deg) rotateZ(225deg);
+	animation: keyFadeOutRight 1s ease;
+}
+
+/* key fade out right animation */
+@-webkit-keyframes keyFadeOutRight {	
+  to {  	
+    opacity: 0;
+		-webkit-transform: translateX(100px) rotateX(180deg) rotateY(0deg) rotateZ(225deg);
+		transform: translateX(100px) rotateX(180deg) rotateY(0deg) rotateZ(225deg);
+  }
+}
+
+/* key fade out right animation */
+@keyframes keyFadeOutRight {	
+	from {
+		opacity: 1;
+	}
+  to {  	
+    opacity: 0;
+		-webkit-transform: translateX(100px) rotateX(180deg) rotateY(0deg) rotateZ(225deg);
+		transform: translateX(100px) rotateX(180deg) rotateY(0deg) rotateZ(225deg);
+  }
+}
