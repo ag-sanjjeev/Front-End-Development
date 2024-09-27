@@ -13,6 +13,7 @@ This repository contains Front-end Development Projects that scale from small to
 4. **Cards:** Container elements for displaying information in a compact format.
 	- [Animated Borders](./cards/animated-borders)
 	- [Glass Morphism](./cards/glass-morphism)
+	- [Product Card 1](./cards/product-card-1)
 5. **Carousels and Sliders:** Components that allow users to swipe or scroll through content.
 	- [3D Image Slider](./carousal-and-sliders/3d-image-slider)
 6. **Charts:** Visual representations of data, such as bar charts, line charts, and pie charts.
