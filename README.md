@@ -22,6 +22,7 @@ This repository contains Front-end Development Projects that scale from small to
 8. **Forms:** Collection of various forms such as login, signup, and so on.
 	- [Login Form 1](./forms/login-form-1)
 	- [Password Form 1](./forms/password-form-1)
+	- [Staged Form](./forms/staged-form)
 9. **Footers:** The bottom section of a webpage, often containing copyright information, navigation links, and social media links.
 10. **Hero Sections:** The main, prominent section at the top of a page.
 11. **Lazy Loading:** A technique for deferring the loading of off-screen content.
