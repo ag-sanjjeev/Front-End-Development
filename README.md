@@ -13,6 +13,7 @@ This repository contains Front-end Development Projects that scale from small to
 4. **Cards:** Container elements for displaying information in a compact format.
 	- [Animated Borders](./cards/animated-borders)
 	- [Glass Morphism](./cards/glass-morphism)
+	- [Glass Panel Design](./cards/glass-panel-design)
 	- [Product Card 1](./cards/product-card-1)
 5. **Carousels and Sliders:** Components that allow users to swipe or scroll through content.
 	- [3D Image Slider](./carousal-and-sliders/3d-image-slider)
@@ -21,6 +22,9 @@ This repository contains Front-end Development Projects that scale from small to
 	- [Multi Level Dropdown Menu 1](./dropdowns/multi-level-dropdown-menu-1)
 8. **Forms:** Collection of various forms such as login, signup, and so on.
 	- [Login Form 1](./forms/login-form-1)
+	- [Login Form 2](./forms/login-form-2)
+	- [Login Form 3](./forms/login-form-3)
+	- [Login Form 4](./forms/login-form-4)
 	- [Password Form 1](./forms/password-form-1)
 	- [Staged Form](./forms/staged-form)
 9. **Footers:** The bottom section of a webpage, often containing copyright information, navigation links, and social media links.

@@ -1,7 +1,7 @@
 # Login Form:
 
-A modern, responsive and mobile friendly login form design. 
-It is made with HTML, SASS only.
+A simple, responsive and mobile friendly login form design. 
+It is made with HTML, CSS only.
 
 ### Screenshots:
 Here are some screenshots of the project:

@@ -1,7 +1,7 @@
-# Login Form:
+# Mobile App Renovation Service Service Screen:
 
-A modern, responsive and mobile friendly login form design. 
-It is made with HTML, SASS only.
+A mobile application service screen design for building renovation service. 
+It is made with HTML, Material Icons, CSS and JavaScript.
 
 ### Screenshots:
 Here are some screenshots of the project:

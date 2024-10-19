@@ -1,13 +1,12 @@
-# Login Form:
+# 3D Image Slider:
 
-A modern, responsive and mobile friendly login form design. 
-It is made with HTML, SASS only.
+A simple 3d rotation animated image slider design. 
+It is made with HTML, CSS only.
 
 ### Screenshots:
 Here are some screenshots of the project:
 
 ![Screenshot 1](./screenshots/screen1.jpg)
-![Screenshot 2](./screenshots/screen2.jpg)
 
 ### License
 

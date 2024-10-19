@@ -1,7 +1,7 @@
-# Login Form:
+# Login Signup Prompt:
 
-A modern, responsive and mobile friendly login form design. 
-It is made with HTML, SASS only.
+A simple authentication popup, bootstrap modal design. 
+It is made with HTML, JavaScript, Bootstrap and jQuery.
 
 ### Screenshots:
 Here are some screenshots of the project:

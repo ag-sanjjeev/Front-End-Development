@@ -1,13 +1,15 @@
-# Login Form:
+# Stagged Form:
 
-A modern, responsive and mobile friendly login form design. 
-It is made with HTML, SASS only.
+A multi stage form with form validation, responsive and mobile friendly design. 
+It is made with HTML, CSS, JavaScript, Bootstrap and jQuery.
 
 ### Screenshots:
 Here are some screenshots of the project:
 
 ![Screenshot 1](./screenshots/screen1.jpg)
 ![Screenshot 2](./screenshots/screen2.jpg)
+![Screenshot 3](./screenshots/screen3.jpg)
+![Screenshot 4](./screenshots/screen4.jpg)
 
 ### License
 

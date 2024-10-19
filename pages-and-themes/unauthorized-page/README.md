@@ -1,13 +1,12 @@
-# Login Form:
+# Unauthorized Page:
 
-A modern, responsive and mobile friendly login form design. 
-It is made with HTML, SASS only.
+A simple, animated unauthorized response page design. 
+It is made with HTML, AnimateCSS, Font Awesome Icons and Bootstrap.
 
 ### Screenshots:
 Here are some screenshots of the project:
 
 ![Screenshot 1](./screenshots/screen1.jpg)
-![Screenshot 2](./screenshots/screen2.jpg)
 
 ### License
 

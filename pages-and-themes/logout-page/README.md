@@ -1,13 +1,12 @@
-# Login Form:
+# Logged Out Page:
 
-A modern, responsive and mobile friendly login form design. 
-It is made with HTML, SASS only.
+A simple, animated logged out response page design. 
+It is made with HTML, AnimateCSS, Font Awesome Icons, Bootstrap and jQuery.
 
 ### Screenshots:
 Here are some screenshots of the project:
 
 ![Screenshot 1](./screenshots/screen1.jpg)
-![Screenshot 2](./screenshots/screen2.jpg)
 
 ### License
 
