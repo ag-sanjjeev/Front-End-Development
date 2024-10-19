@@ -1,7 +1,3 @@
-test
-test/*
-images/
-images/*
 .sass-cache/*
 .sass-cache/
 *.map
