@@ -7,7 +7,6 @@ It is made with HTML, CSS only.
 Here are some screenshots of the project:
 
 ![Screenshot 1](./screenshots/screen1.jpg)
-![Screenshot 2](./screenshots/screen2.jpg)
 
 ### License
 

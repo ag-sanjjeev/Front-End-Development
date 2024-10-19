@@ -5,8 +5,7 @@ It is made with HTML, SASS only.
 ### Screenshots:
 Here are some screenshots of the project:
 
-![Screenshot 1](../master/screenshots/screen1.jpg)
-![Screenshot 2](../master/screenshots/screen2.jpg)
+![Screenshot 1](./screenshots/screen1.jpg)
 
 ### License
 
