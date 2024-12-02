@@ -1,6 +1,6 @@
 # Mobile App Renovation Service Service Screen:
 
-A mobile application service screen design for building renovation service. 
+A mobile screen design with switch theme option for building renovation service. 
 It is made with HTML, Material Icons, CSS and JavaScript.
 
 ### Screenshots:
@@ -11,7 +11,7 @@ Here are some screenshots of the project:
 
 ### License
 
-The project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for more details.
+The project is licensed under the MIT License. See the [LICENSE](../../LICENSE) file for more details.
 
 ### Contact
 

@@ -1,6 +1,6 @@
 # Logged Out Page:
 
-A simple, animated logged out response page design. 
+A simple and animated logged out response page design. 
 It is made with HTML, AnimateCSS, Font Awesome Icons, Bootstrap and jQuery.
 
 ### Screenshots:
@@ -10,7 +10,7 @@ Here are some screenshots of the project:
 
 ### License
 
-The project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for more details.
+The project is licensed under the MIT License. See the [LICENSE](../../LICENSE) file for more details.
 
 ### Contact
 
