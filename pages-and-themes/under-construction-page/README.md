@@ -1,6 +1,5 @@
-# Unauthorized Page:
-
-A simple, animated unauthorized response page design. 
+# Under Construction Page:
+A simple and animated under construction page design. 
 It is made with HTML, AnimateCSS, Font Awesome Icons, Bootstrap and jQuery.
 
 ### Screenshots:
@@ -9,7 +8,6 @@ Here are some screenshots of the project:
 ![Screenshot 1](./screenshots/screen1.jpg)
 
 ### License
-
 The project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for more details.
 
 ### Contact
