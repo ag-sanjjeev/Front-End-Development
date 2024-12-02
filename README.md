@@ -11,7 +11,7 @@ This repository contains Front-end Development Projects that scale from small to
 2. **Alerts:** Messages that notify users of important information or events.
 3. **Buttons:** Clickable elements for user interaction.
 4. **Cards:** Container elements for displaying information in a compact format.
-	- [Animated Borders](./cards/animated-borders)
+	- [Animated Border](./cards/animated-border)
 	- [Glass Morphism](./cards/glass-morphism)
 	- [Glass Panel Design](./cards/glass-panel-design)
 	- [Product Card 1](./cards/product-card-1)
@@ -36,6 +36,7 @@ This repository contains Front-end Development Projects that scale from small to
 14. **Navigations and Menus:** Menus, breadcrumbs, and other elements for navigating a website.
 15. **Progress Bars:** Visual indicators of progress or completion.
 16. **Pages and Themes:** The different collections of web page designs such as blog, dashboard, etc.
+	- [Enable Javascript Page](./pages-and-themes/enable-javascript-page)
 	- [Login Failed Page](./pages-and-themes/login-failed-page)
 	- [Login Successful Page](./pages-and-themes/login-successful-page)
 	- [Logout Page](./pages-and-themes/logout-page)
