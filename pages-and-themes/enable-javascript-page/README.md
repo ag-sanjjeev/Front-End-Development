@@ -1,6 +1,6 @@
 # Enable JavaScript Page:
 A simple and animated warning section for no script permission with responsive design. 
-It is made with HTML, AnimateCSS, Font Awesome Icons and Bootstrap.
+It is made with HTML, CSS, Font Awesome Icons and some animation with AnimateCSS.
 
 ### Screenshots:
 Here are some screenshots of the project:
